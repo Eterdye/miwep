@@ -1,2 +1,0 @@
-Aqui escribire paja pura, adio petes
-var nombre ="Jovanny";
